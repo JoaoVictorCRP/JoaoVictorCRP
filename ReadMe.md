@@ -25,7 +25,8 @@
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-  <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kdeneon/kdeneon-original.svg" />
+  <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+
 
 </div>
 
