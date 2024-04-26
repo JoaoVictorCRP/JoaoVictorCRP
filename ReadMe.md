@@ -9,8 +9,8 @@
 
 <br><br>
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na FATEC Franca. 📚
-- Tenho muito interesse na área de ciência de dados e Back-End. 👨‍💻
-- No momento, estou me aprofundando no Python e no MySQL. 🐍
+- Tenho um interesse especial em programação Back-End. 👨‍💻❤️
+- No momento, estou focando no Python e MySQL. 🐍📌
 <br><br>
 
 <div>
