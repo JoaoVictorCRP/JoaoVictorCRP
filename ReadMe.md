@@ -1,4 +1,4 @@
-# Olá, eu sou o João Victor! 😊
+# Olá, eu sou o João Victor! 🤠
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP" />
