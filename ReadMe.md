@@ -1,16 +1,16 @@
-# Olá, eu sou o João Victor! 🤠
+# Muito prazer, eu sou o João Victor!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B,HTML,CSS" />
 </a>
 
 <br><br>
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na FATEC Franca. 📚
-- Tenho um interesse especial em programação Back-End. 👨‍💻❤️
-- No momento, estou focando no Python e MySQL. 🐍📌
+- Tenho um interesse especial em programação Back-End. 👨‍💻
+- No momento, estou direciona meus estudos ao Python e React. 📌
 <br><br>
 
 <div>
