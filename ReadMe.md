@@ -7,18 +7,29 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B,HTML,CSS" />
 </a>
 
-<br><br>
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas, na FATEC Franca. 📚
-- Tenho um interesse especial em programação Back-End. 👨‍💻
-- No momento, estou direciona meus estudos ao Python e React. 📌
+
+### Sobre Mim
+- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
+- Tenho interesse especial na programação Back-End. 👨‍💻
+- No momento, tenho direcionado meus estudos ao PHP. 📌
+- Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
 <br><br>
 
 <div>
+  
+## Aprendendo...
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  />
+<img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img style="height:40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+
+
 
 ### Minhas Tecnologias
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
