@@ -11,7 +11,8 @@
 ### Sobre Mim
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
 - Tenho interesse especial na programação Back-End. 👨‍💻
-- No momento, tenho direcionado meus estudos ao PHP. 📌
+- Minha linguagem favorita é Python. 🐍
+- No momento, tenho direcionado meus estudos ao JAVA e o PHP. 📌
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
 <br><br>
 
@@ -25,7 +26,7 @@
 
 
 
-### Minhas Tecnologias
+## Minhas Tecnologias
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
     <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
