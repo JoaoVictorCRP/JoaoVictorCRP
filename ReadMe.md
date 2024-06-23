@@ -1,4 +1,4 @@
-# Muito prazer, eu sou o João Victor!
+# Olá, eu sou o João Victor!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP" />
@@ -12,7 +12,7 @@
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
 - Tenho interesse especial na programação Back-End. 👨‍💻
 - Minha linguagem favorita é Python. 🐍
-- No momento, tenho direcionado meus estudos ao JAVA e o PHP. 📌
+- No momento, tenho direcionado meus estudos ao JAVA. 📌
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
 <br><br>
 
@@ -38,6 +38,8 @@
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img style="height:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 
 
 </div>
