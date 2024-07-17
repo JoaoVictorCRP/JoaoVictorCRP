@@ -1,27 +1,34 @@
 # Olá, eu sou o João Victor!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP&theme=tokyonight&locale=pt-br" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B,HTML,CSS&theme=tokyonight&locale=pt-br" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B,HTML,CSS&theme=tokyonight" />
 </a>
 
 
-### Sobre Mim
+### Sobre Mim 🇧🇷
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
 - Tenho interesse especial na programação Back-End. 👨‍💻
-- Minha linguagem favorita é Python. 🐍
+- Minha linguagem principal é Python. 🐍
 - No momento, tenho direcionado meus estudos ao JAVA. 📌
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
 <br><br>
 
+## About Me 🇺🇸
+- I'm coursing System Analysis and Development at FATEC Franca.📗
+- Special interest on back-end programming. 👨‍💻
+- My main language is Python. 🐍
+- Right now, i'm focusing on learning JAVA.📌
+- I would like to be contributing on open-source projects and getting contributtions to my projects.💡
 <div>
   
 ## Aprendendo...
 <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  />
 <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img style="height:35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 
 
