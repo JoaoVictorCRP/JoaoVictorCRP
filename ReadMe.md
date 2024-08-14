@@ -10,7 +10,7 @@
 
 ### Sobre Mim 🇧🇷
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
-- Tenho interesse especial na programação Back-End. 👨‍💻
+- Aprendendo cada dia mais, rumo ao fullstack! 👨‍💻
 - Minha linguagem principal é Python. 🐍
 - No momento, tenho direcionado meus estudos ao JAVA. 📌
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
@@ -18,7 +18,7 @@
 
 ## About Me 🇺🇸
 - I'm coursing System Analysis and Development at FATEC Franca.📗
-- Special interest on back-end programming. 👨‍💻
+- Learning more each day, I'm on my way to become a fullstack developer! 👨‍💻
 - My main language is Python. 🐍
 - Right now, i'm focusing on learning JAVA.📌
 - I would like to be contributing on open-source projects and getting contributtions to my projects.💡
@@ -26,9 +26,8 @@
   
 ## Aprendendo...
 <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-
-
-
+<img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 
 ## Minhas Tecnologias
@@ -49,10 +48,6 @@
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-
-
-
-
 
 
 </div>
