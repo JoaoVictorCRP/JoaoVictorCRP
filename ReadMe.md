@@ -1,4 +1,5 @@
-# Olá, eu sou o João Victor!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0719B1&center=true&width=850&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Victor!;Obrigado+pela+visita!+%3A%29)](https://git.io/typing-svg)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP&theme=tokyonight" />
@@ -8,7 +9,7 @@
 </a>
 
 
-### Sobre Mim 🇧🇷
+### Sobre Mim
 - Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
 - Aprendendo cada dia mais, rumo ao fullstack! 👨‍💻
 - Minha linguagem principal é Python. 🐍
@@ -16,25 +17,16 @@
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
 <br><br>
 
-## About Me 🇺🇸
-- I'm coursing System Analysis and Development at FATEC Franca.📗
-- Learning more each day, I'm on my way to become a fullstack developer! 👨‍💻
-- My main language is Python. 🐍
-- Right now, i'm focusing on learning JAVA.📌
-- I would like to be contributing on open-source projects and getting contributtions to my projects.💡
 <div>
   
-## Minhas Tecnologias
+  ## Minhas Tecnologias
 
   ### Front-end 🖥️
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
- <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-
-
+  <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
   ### Back-end ♾️
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -45,6 +37,7 @@
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
 
   ### Misc 💡
@@ -54,13 +47,13 @@
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-
-### Learning... ⏳
-<img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  ### Learning... ⏳
+  <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div>
 
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ### Contatos
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Blue?style=flat&logo=linkedin&logoColor=3182cc&color=ffffff)](https://www.linkedin.com/in/jo%C3%A3o-victor-carrijo-pereira-651074266/)
