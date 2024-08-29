@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0719B1&center=true&width=850&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Victor!;Obrigado+pela+visita!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00a600&center=true&width=850&height=100&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Victor!;Obrigado+pela+visita!+%3A%29)](https://git.io/typing-svg)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,10 +10,10 @@
 
 
 ### Sobre Mim
-- Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
-- Aprendendo cada dia mais, rumo ao fullstack! 👨‍💻
+- Cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
+- Estagiando em Devops. ♾️
 - Minha linguagem principal é Python. 🐍
-- No momento, tenho direcionado meus estudos ao JAVA. 📌
+- No momento, tenho direcionado meus estudos a plataforma AWS. 📌
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
 <br><br>
 
@@ -28,7 +28,7 @@
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-  ### Back-end ♾️
+  ### Back-end 👨‍💻
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -48,7 +48,7 @@
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
   ### Learning... ⏳
-  <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div>
