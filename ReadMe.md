@@ -11,7 +11,7 @@
 
 ### Sobre Mim
 - Cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
-- Estagiando em Devops. ♾️
+- Devops na CodeBit ♾️
 - Minha linguagem principal é Python. 🐍
 - No momento, tenho direcionado meus estudos a plataforma AWS. 📌
 - Gostaria de estar contribuindo em projetos open-source e também recebendo contribuições em meus projetos.💡
