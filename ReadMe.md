@@ -4,10 +4,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP&theme=tokyonight" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B,HTML,CSS&theme=tokyonight" />
 </a>
-
 
 ### Sobre Mim
 - Cursando Análise e Desenvolvimento de Sistemas na FATEC Franca.📗
@@ -53,8 +53,7 @@
 
 </div>
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVictorCRP&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ### Contatos
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Blue?style=flat&logo=linkedin&logoColor=3182cc&color=ffffff)](https://www.linkedin.com/in/jo%C3%A3o-victor-carrijo-pereira-651074266/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=flat&logo=whatsapp&logoColor=ffffff&color=50c41d)](https://api.whatsapp.com/send/?phone=55016991110426&text&type=phone_number&app_absent=0)
