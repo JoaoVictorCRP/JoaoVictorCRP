@@ -18,7 +18,13 @@
 <br><br>
 
 <div>
-  
+
+  ## Minhas Certificações
+<div style="display: flex; align-items: center; flex-direction: row; gap: 20px;">
+    <img style="height: 100px;" src="./AWS-CLF.png" />✅
+    <img style="height: 100px;" src="./AWS-SAA.png" />🎯
+</div>
+ 
   ## Minhas Tecnologias
 
   ### Front-end 🖥️
@@ -48,6 +54,7 @@
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img style="height:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
 
 
 </div>
