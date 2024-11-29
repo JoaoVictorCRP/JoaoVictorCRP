@@ -22,7 +22,8 @@
   ## Minhas Certificações
 <div style="display: flex; align-items: center; flex-direction: row; gap: 20px;">
     <img style="height: 100px;" src="./AWS-CLF.png" />✅
-    <img style="height: 100px;" src="./AWS-SAA.png" />🎯
+    <img style="height: 100px;" src="./AWS-SAA.png" />✅
+    <img style="height: 100px;" src="./AWS-SCS.png" />🎯
 </div>
  
   ## Minhas Tecnologias
