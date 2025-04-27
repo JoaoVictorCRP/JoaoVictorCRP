@@ -8,8 +8,8 @@
 
 ## Sobre Mim
 
-- 👨‍💻 **AWS Solutions Architect** na [Codebit](https://www.codebit.com.br/), empresa parceira da **AWS Partner Network (APN)**.
-- 👩‍🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela FATEC Franca.
+- 👨‍💻 **AWS Solutions Architect** na **[Codebit](https://www.codebit.com.br/)**, empresa parceira da **AWS Partner Network (APN)**.
+- 👨‍🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela FATEC Franca.
 - 💬 Ajudo clientes na **definição de arquiteturas escaláveis**, **resolução de problemas** e **consultorias especializadas em nuvem**.
 
 ## 🎓 Minhas Certificações
@@ -17,17 +17,17 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./AWS-CLF.png" height="120px" /><br/>
+      <img src="./AWS-CLF.png" height="100px" /><br/>
       <strong>AWS Certified Cloud Practitioner</strong><br/>
       (ID: CLF-C02) ✅
     </td>
     <td align="center">
-      <img src="./AWS-SAA.png" height="120px" /><br/>
+      <img src="./AWS-SAA.png" height="100px" /><br/>
       <strong>AWS Solutions Architect Associate</strong><br/>
       (ID: SAA-C03) ✅
     </td>
     <td align="center">
-      <img src="./AWS-SCS.png" height="120px" /><br/>
+      <img src="./AWS-SCS.png" height="100px" /><br/>
       <strong>AWS Security Specialty</strong><br/>
       (ID: SCS-C02) ✅
     </td>
