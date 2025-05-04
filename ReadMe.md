@@ -32,6 +32,15 @@
       (ID: SCS-C02) ✅
     </td>
   </tr>
+  <tr>
+  <td align="center">
+      <td align="center">
+        <img src="./AWS-SOA.png" height="100px" /><br/>
+        <strong>AWS SysOps Administrator</strong><br/>
+        (ID: SOA-C02) ✅
+    </td>    
+  </td>
+  </tr>
 </table>
 
 
@@ -40,7 +49,7 @@
 
 - 💡 **Experiência Prática em Pipelines de CI/CD**:
   - Jenkins
-  - AWS CodePipeline
+  - AWS CodePipeline/Codebuild
   - GitHub Actions
 - 📁 **Infraestrutura como Código (IaC)**:
   - Terraform
