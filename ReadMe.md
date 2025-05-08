@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-- 👨‍💻 **AWS Solutions Architect** na **[Codebit](https://www.codebit.com.br/)**, empresa parceira da **AWS Partner Network (APN)**.
+- 👨‍💻 **Devops Engineer** na **[Codebit](https://www.codebit.com.br/)**, empresa parceira da **AWS Partner Network (APN)**.
 - 👨‍🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela FATEC Franca.
 - 💬 Ajudo clientes na **definição de arquiteturas escaláveis**, **resolução de problemas** e **consultorias especializadas em nuvem**.
 
