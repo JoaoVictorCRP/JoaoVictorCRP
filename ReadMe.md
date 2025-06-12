@@ -44,7 +44,7 @@
 
 ### 👨‍💻 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,python,java" />
 </p>
 
 ### 🖌️ Frontend
