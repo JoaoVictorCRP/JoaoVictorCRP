@@ -68,6 +68,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-carrijo-pereira-651074266/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Se conecte comigo no linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin_icon-5&logoColor=white" style="height: 30px;"/></a>
   
-  <a href="mailto:joaovictorxl120@gmail.com" style="text-decoration: none;">
+  <a href="mailto:joao@carrijo.dev.br" style="text-decoration: none;">
     <img alt="Gmail" title="Me mande um e-mail" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" style="height: 30px;"/></a>
 </p>
