@@ -17,7 +17,7 @@
 
 | Cloud Practitioner ✅                                      | Solutions Architect Associate ✅                            |  SysOps Administrator ✅                                |  Security Specialty ✅                                  |
 | :-----------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------: |
-| <img src="./AWS-CLF.png" height="100px" /><br/>  | <img src="./AWS-SAA.png" height="100px" /><br/> | <img src="./AWS-SOA.png" height="100px" /><br/> |  <img src="./AWS-SCS.png" height="100px" /><br/>  |
+| <img src="./AWS-CLF.png" style="height:100px; width:100px" /><br/>  | <img src="./AWS-SAA.png" style="height:100px; width:100px" /><br/> | <img src="./AWS-SOA.png" style="height:100px; width:100px" /><br/> |  <img src="./AWS-SCS.png" style="height:100px; width:100px" /><br/>  |
 
 ## 🛠️ DevOps Skills
 
