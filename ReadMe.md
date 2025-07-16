@@ -19,17 +19,6 @@
 | :-----------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------: |
 | <img src="./AWS-CLF.png" style="height:100px; width:100px" /><br/>  | <img src="./AWS-SAA.png" style="height:100px; width:100px" /><br/> | <img src="./AWS-SOA.png" style="height:100px; width:100px" /><br/> |  <img src="./AWS-SCS.png" style="height:100px; width:100px" /><br/>  |
 
-## 🛠️ DevOps Skills
-
-- 💡 **Experiência Prática em Pipelines de CI/CD**:
-  - Jenkins
-  - AWS CodePipeline/Codebuild
-  - GitHub Actions
-- 📁 **Infraestrutura como Código (IaC)**:
-  - Terraform
-  - AWS CloudFormation
-- ☁️ Atuação em **projetos reais** solucionando problemas críticos e entregando ambientes escaláveis e resilientes.
-
 ## 📊 Minhas Tecnologias
 
 ### 🛠️ DevOps
@@ -69,5 +58,5 @@
     <img alt="LinkedIn" title="Se conecte comigo no linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin_icon-5&logoColor=white" style="height: 30px;"/></a>
   
   <a href="mailto:joao@carrijo.dev.br" style="text-decoration: none;">
-    <img alt="Gmail" title="Me mande um e-mail" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" style="height: 30px;"/></a>
+    <img alt="Email" title="Me mande um e-mail" src="https://custom-icon-badges.demolab.com/badge/Email-white.svg?style=for-the-badge&logo=mail&logoColor=black&logoSource=feather" style="height: 30px;"/></a>
 </p>
