@@ -7,17 +7,27 @@
 </p>
 
 ## Sobre Mim
-
-- 👨‍💻 **Devops Engineer** na **[Codebit](https://www.codebit.com.br/)**, empresa parceira da **AWS Partner Network (APN)**.
-- 👨‍🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela FATEC Franca.
-- 💬 Ajudo clientes na **definição de arquiteturas escaláveis**, **resolução de problemas** e **consultorias especializadas em nuvem**.
+Sou **DevOps Engineer** na [Codebit](https://www.codebit.com.br/), empresa parceira da **AWS Partner Network (APN)**, onde atuo ajudando clientes a projetar e implementar arquiteturas escaláveis, seguras e resilientes na nuvem. Estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Franca e tenho experiência prática com automação, monitoramento, provisionamento de infraestrutura e integração de serviços AWS. Também já desenvolvi projetos com Node, Python e Java Springboot. Minha paixão é resolver problemas complexos, otimizar ambientes e compartilhar conhecimento sobre computação em nuvem e boas práticas de engenharia.
 
 
 ## 🎓 Minhas Certificações
 
-| Cloud Practitioner                                      | Solutions Architect Associate                            |  SysOps Administrator                                |  Security Specialty                                  |
-| :-----------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------: |
-| <img src="./AWS-CLF.png" style="height:100px; width:100px" /><br/>  | <img src="./AWS-SAA.png" style="height:100px; width:100px" /><br/> | <img src="./AWS-SOA.png" style="height:100px; width:100px" /><br/> |  <img src="./AWS-SCS.png" style="height:100px; width:100px" /><br/>  |
+Atualmente possuo 5 certificações da nuvem AWS, são elas:
+
+- **[AWS Certified Solutions Architect – Professional (SAP-C02)](https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url)**  
+  Arquiteturas complexas, migração em escala, custo, segurança e workloads híbridas/multi-conta.
+
+- **[AWS Certified Security – Specialty (SCS-C02)](https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url)**  
+  Segurança em profundidade: KMS, IAM avançado, WAF/Shield, incident response, data protection.
+
+- **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)**  
+  Arquiteturas altamente disponíveis e resilientes, networking, storage e integração de serviços.
+
+- **[AWS Certified SysOps Administrator – Associate (SOA-C02)](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)**  
+  Operações e monitoramento: CloudWatch, automação, alta disponibilidade, backup/DR.
+
+- **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)**  
+  Fundamentos de cloud, modelos de custo, responsabilidade compartilhada e serviços base.
 
 ## 📊 Minhas Tecnologias
 
