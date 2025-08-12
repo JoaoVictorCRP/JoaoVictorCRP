@@ -18,7 +18,7 @@ Atualmente possuo 5 certificações da nuvem AWS, são elas:
   Arquiteturas complexas, migração em escala, custo, segurança e workloads híbridas/multi-conta.
 
 - **[AWS Certified Security – Specialty (SCS-C02)](https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url)**  
-  Segurança em profundidade: KMS, IAM avançado, WAF/Shield, incident response, data protection.
+  Segurança em profundidade: KMS, IAM avançado, WAF/Shield, respostas a incidentes, proteção de dados.
 
 - **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)**  
   Arquiteturas altamente disponíveis e resilientes, networking, storage e integração de serviços.
