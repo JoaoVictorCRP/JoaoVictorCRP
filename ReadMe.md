@@ -38,7 +38,7 @@ Atualmente possuo 5 certificações da nuvem AWS, são elas:
 
 ### 💾 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,dynamodb" />
 </p>
 
 ### 👨‍💻 Backend
