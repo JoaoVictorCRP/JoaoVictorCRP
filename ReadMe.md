@@ -7,7 +7,8 @@
 </p>
 
 ## Sobre Mim
-Sou **DevOps Engineer** na [Codebit](https://www.codebit.com.br/), empresa parceira da **AWS Partner Network (APN)**, onde atuo ajudando clientes a projetar e implementar arquiteturas escaláveis, seguras e resilientes na nuvem. Estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Franca e tenho experiência prática com automação, monitoramento, provisionamento de infraestrutura e integração de serviços AWS. Também já desenvolvi projetos com Node, Python e Java Springboot. Minha paixão é resolver problemas complexos, otimizar ambientes e compartilhar conhecimento sobre computação em nuvem e boas práticas de engenharia.
+Sou **DevOps Engineer** na [Codebit](https://www.codebit.com.br/), empresa parceira da **AWS Partner Network (APN)**, onde atuo ajudando clientes a projetar e implementar arquiteturas escaláveis, seguras e resilientes na nuvem.
+Tenho experiência prática com automação, monitoramento, provisionamento de infraestrutura via código (IaC) e integração de serviços AWS. Também já desenvolvi projetos com Node, Python e Java Springboot. Minha paixão é resolver problemas complexos, otimizar ambientes e compartilhar conhecimento sobre computação em nuvem e boas práticas de engenharia.
 
 
 ## 🎓 Minhas Certificações
