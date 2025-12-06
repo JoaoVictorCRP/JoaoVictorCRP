@@ -12,7 +12,7 @@
 
 I'm a **DevOps Engineer** at [Codebit](https://www.codebit.com.br/), an **AWS Partner Network (APN)** company, where I help clients design and implement scalable, secure, and resilient cloud architectures.
 
-I have hands-on experience with automation, monitoring, Infrastructure as Code (IaC), and AWS service integration. I've also developed projects using Node.js, Python, and Java Spring Boot. My passion lies in solving complex problems, optimizing environments, and sharing knowledge about cloud computing and engineering best practices.
+I have hands-on experience with automation, monitoring, Infrastructure as Code (IaC), and AWS service integration. I've also developed projects using Node.js, Python, and Java. My passion lies in solving complex problems, optimizing environments, and sharing knowledge about cloud computing and engineering best practices.
 
 ---
 
