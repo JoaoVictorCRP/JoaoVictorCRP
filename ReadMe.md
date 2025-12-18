@@ -90,14 +90,7 @@ I currently hold **5 AWS certifications**:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorCRP&layout=donut&langs_count=5&size_weight=0.5&count_weight=0.5&exclude_repo=estrutura-de-dados-alexandre&hide=CMake,C%2B%2B,HTML,CSS&theme=tokyonight&hide_border=true" />
-  </a>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVictorCRP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
