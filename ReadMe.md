@@ -54,7 +54,7 @@ I currently hold **5 AWS certifications**:
 <summary><b>☁️ DevOps & Cloud</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,bash,linux,nginx&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,bash,linux,nginx,grafana&perline=10" />
 </p>
 </details>
 
