@@ -6,15 +6,11 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a **DevOps Engineer** at [Codebit](https://www.codebit.com.br/), an **AWS Partner Network (APN)** company, where I help clients design and implement scalable, secure, and resilient cloud architectures.
 
 I have hands-on experience with automation, monitoring, Infrastructure as Code (IaC), and AWS service integration. I've also developed projects using Node.js, Python, and Java. My passion lies in solving complex problems, optimizing environments, and sharing knowledge about cloud computing and engineering best practices.
-
----
 
 ## 🎓 Certifications
 
@@ -45,8 +41,6 @@ I currently hold **5 AWS certifications**:
 | **[Solutions Architect – Associate](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)** | Highly available and resilient architectures, networking, storage, and service integration |
 | **[SysOps Administrator – Associate](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Operations and monitoring: CloudWatch, automation, high availability, backup/DR |
 | **[Cloud Practitioner](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Cloud fundamentals, cost models, shared responsibility, and core services |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -82,17 +76,20 @@ I currently hold **5 AWS certifications**:
 </p>
 </details>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCRP&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoVictorCRP&show_icons=true&theme=radical" />
   </a>
+
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoaoVictorCRP&theme=radical" />
+  </a>
+
 </div>
 
----
 
 ## 📫 Let's Connect
 
@@ -105,8 +102,6 @@ I currently hold **5 AWS certifications**:
     <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <i>⭐ Feel free to star my repositories if you find them useful!</i>
