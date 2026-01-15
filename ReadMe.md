@@ -14,7 +14,7 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 
 ## 🎓 Certifications
 
-I currently hold **5 AWS certifications**:
+I currently hold **6 AWS certifications**:
 
 <p align="center">
   <a href="https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url">
