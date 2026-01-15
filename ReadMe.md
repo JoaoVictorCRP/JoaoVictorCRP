@@ -17,6 +17,9 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 I currently hold **6 AWS certifications**:
 
 <p align="center">
+  <a href="https://www.credly.com/badges/4bcd8936-4c93-4954-9192-cc34b85da395/public_url">
+    <img src="AWS-DOP.png" alt="AWS Devops Engineer Professional" width="100" />
+  </a>
   <a href="https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url">
     <img src="AWS-SAP.png" alt="AWS Solutions Architect Professional" width="100" />
   </a>
@@ -36,6 +39,7 @@ I currently hold **6 AWS certifications**:
 
 | Certification | Description |
 |:-------------:|-------------|
+| **[Devops Engineer – Professional](https://www.credly.com/badges/4bcd8936-4c93-4954-9192-cc34b85da395/public_url)** | CI/CD Pipelines configuration, deployment strategies at scale, infrastructure automations |
 | **[Solutions Architect – Professional](https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url)** | Complex architectures, large-scale migration, cost optimization, security, and hybrid/multi-account workloads |
 | **[Security – Specialty](https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url)** | Defense in depth: KMS, advanced IAM, WAF/Shield, incident response, data protection |
 | **[Solutions Architect – Associate](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)** | Highly available and resilient architectures, networking, storage, and service integration |
