@@ -12,7 +12,7 @@ I'm a **DevOps Engineer** at [Codebit](https://www.codebit.com.br/), an **AWS Pa
 
 I have hands-on experience with automation, monitoring, Infrastructure as Code (IaC), and AWS service integration. I've also developed projects using Node.js, Python, and Java. My passion lies in solving complex problems, optimizing environments, and sharing knowledge about cloud computing and engineering best practices.
 
-Want to see my cloud stack in action? Run this on your terminal:
+Run the command bellow on your terminal (or access the URL on your browser) and get a surprise :)
 
 ```
 curl -s https://welcome.carrijo.dev.br/
