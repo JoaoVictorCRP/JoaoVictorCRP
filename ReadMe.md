@@ -87,17 +87,10 @@ I currently hold **6 AWS certifications**:
 </details>
 
 
-## 📊 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=JoaoVictorCRP&show_icons=true&theme=radical" />
   </a>
-
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JoaoVictorCRP&theme=radical" />
-  </a>
-
 </div>
 
 
