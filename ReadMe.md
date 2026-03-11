@@ -20,7 +20,7 @@ curl -s https://welcome.carrijo.dev.br/
 
 ## 🎓 Certifications
 
-I currently hold **6 AWS certifications**:
+I currently hold **7 AWS certifications**:
 
 <p align="center">
   <a href="https://www.credly.com/badges/4bcd8936-4c93-4954-9192-cc34b85da395/public_url">
@@ -34,6 +34,9 @@ I currently hold **6 AWS certifications**:
   </a>
   <a href="https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url">
     <img src="AWS-SAA.png" alt="AWS Solutions Architect Associate" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url">
+    <img src="AWS-DVA.png" alt="AWS Solutions Architect Associate" width="100" />
   </a>
   <a href="https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url">
     <img src="AWS-SOA.png" alt="AWS SysOps Administrator" width="100" />
