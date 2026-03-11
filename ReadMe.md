@@ -23,14 +23,14 @@ curl -s https://welcome.carrijo.dev.br/
 I currently hold **7 AWS certifications**:
 
 <p align="center">
+  <a href="https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url">
+    <img src="AWS-SCS.png" alt="AWS Security Specialty" width="100" />
+  </a>
   <a href="https://www.credly.com/badges/4bcd8936-4c93-4954-9192-cc34b85da395/public_url">
     <img src="AWS-DOP.png" alt="AWS Devops Engineer Professional" width="100" />
   </a>
   <a href="https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url">
     <img src="AWS-SAP.png" alt="AWS Solutions Architect Professional" width="100" />
-  </a>
-  <a href="https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url">
-    <img src="AWS-SCS.png" alt="AWS Security Specialty" width="100" />
   </a>
   <a href="https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url">
     <img src="AWS-SAA.png" alt="AWS Solutions Architect Associate" width="100" />
