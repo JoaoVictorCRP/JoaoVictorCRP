@@ -23,7 +23,6 @@ curl -s https://welcome.carrijo.dev.br/
 <details>
 <summary><b>☁️ AWS (7 certifications)</b></summary>
 <br>
-I currently hold **7 AWS certifications**:
 
 <p align="center">
   <a href="https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url">
@@ -73,7 +72,7 @@ I currently hold **7 AWS certifications**:
   
 | Certification | Description |
 |:-------------:|-------------|
-| **KCNA** | Kubernetes and Cloud Native fundamentals, architecture, open-source tools |
+| **[KCNA](https://www.credly.com/badges/e25c0fde-9502-4f1f-afcd-a8b7eebc1c59/public_url)** | Kubernetes and Cloud Native fundamentals, architecture, open-source tools |
 
 </details>
 
