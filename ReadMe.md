@@ -20,6 +20,9 @@ curl -s https://welcome.carrijo.dev.br/
 
 ## 🎓 Certifications
 
+<details>
+<summary><b>☁️ AWS (7 certifications)</b></summary>
+<br>
 I currently hold **7 AWS certifications**:
 
 <p align="center">
@@ -55,6 +58,24 @@ I currently hold **7 AWS certifications**:
 | **[Developer – Associate](https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url)** | Application development and life-cycle management using AWS CLI, SDKs and native services |
 | **[SysOps Administrator – Associate](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Operations and monitoring: CloudWatch, automation, high availability, backup/DR |
 | **[Cloud Practitioner](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Cloud fundamentals, cost models, shared responsibility, and core services |
+
+</details>
+
+
+<details>
+<summary><b>☸️ Kubernetes</b></summary>
+<br>
+<p align="center">
+  <a href="https://www.credly.com/badges/e25c0fde-9502-4f1f-afcd-a8b7eebc1c59/public_url">
+    <img src="KCNA.png" width="100" />
+  </a>
+</p>
+  
+| Certification | Description |
+|:-------------:|-------------|
+| **KCNA** | Kubernetes and Cloud Native fundamentals, architecture, open-source tools |
+
+</details>
 
 ## 🛠️ Tech Stack
 
