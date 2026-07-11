@@ -59,8 +59,8 @@ curl -s https://welcome.carrijo.dev.br/
 | **[Solutions Architect – Associate](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)** | Highly available and resilient architectures, networking, storage, and service integration |
 | **[Developer – Associate](https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url)** | Application development and life-cycle management using AWS CLI, SDKs and native services |
 | **[SysOps Administrator – Associate](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Operations and monitoring: CloudWatch, automation, high availability, backup/DR |
-| **[AI Practitioner](https://www.credly.com/badges/b3b150e7-9f5d-4f7c-bac1-df96ba11a14f/public_url)** | General AI and ML concepts, methods, strategies and their practical applications   |
-| **[Cloud Practitioner](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Cloud fundamentals, cost models, shared responsibility, and core services |
+| **[AI Practitioner - Foundational](https://www.credly.com/badges/b3b150e7-9f5d-4f7c-bac1-df96ba11a14f/public_url)** | General AI and ML concepts, methods, strategies and their practical applications   |
+| **[Cloud Practitioner - Foundational](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Cloud fundamentals, cost models, shared responsibility, and core services |
 
 </details>
 
