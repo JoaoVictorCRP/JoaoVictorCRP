@@ -6,16 +6,16 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **DevOps Engineer** at [CodeBit](https://www.codebit.com.br/), an **AWS Partner Network (APN)** company, where I help clients design and implement scalable, secure, and resilient cloud architectures. I hold a degree in Systems Analysis and Development from FATEC and am currently pursuing my M.Sc at USP.
 
 I have hands-on experience with automation, monitoring, Infrastructure as Code (IaC), and AWS service integration. I've also developed projects using Node.js, Python, and Java. My passion lies in solving complex problems, optimizing environments, and sharing knowledge about cloud computing and engineering best practices.
 
-## 🎓 Certifications
+## Certifications
 
 <details>
-<summary><b>☁️ AWS (9 certifications)</b></summary>
+<summary><b>AWS (9 certifications)</b></summary>
 <br>
 
 <p align="center">
@@ -65,7 +65,7 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 
 
 <details>
-<summary><b>☸️ Kubernetes</b></summary>
+<summary><b> Kubernetes</b></summary>
 <br>
 <p align="center">
   <a href="https://www.credly.com/badges/e25c0fde-9502-4f1f-afcd-a8b7eebc1c59/public_url">
@@ -79,10 +79,10 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 
 </details>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
+<summary><b>DevOps & Cloud</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,bash,linux,nginx,grafana&perline=10" />
@@ -90,7 +90,7 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 </details>
 
 <details open>
-<summary><b>💾 Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,dynamodb&perline=5" />
@@ -98,7 +98,7 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
+<summary><b>Backend</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript,python,java&perline=5" />
@@ -106,7 +106,7 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 </details>
 
 <details open>
-<summary><b>🎨 Frontend</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,javascript,tailwind,bootstrap&perline=7"/>
@@ -121,7 +121,7 @@ I have hands-on experience with automation, monitoring, Infrastructure as Code (
 </div>
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-carrijo-pereira-651074266/">
