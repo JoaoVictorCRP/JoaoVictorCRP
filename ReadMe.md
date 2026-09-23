@@ -12,6 +12,9 @@ I'm a **DevOps Engineer** at [CodeBit](https://www.codebit.com.br/), an **AWS Pa
 
 I have hands-on experience with automation, monitoring, Infrastructure as Code (IaC), and AWS service integration. I've also developed projects using Node.js, Python, and Java. My passion lies in solving complex problems, optimizing environments, and sharing knowledge about cloud computing and engineering best practices.
 
+Also, I host a tech blog where I post my experiences, projects and learnings on DevOps and open-source tools, check it out at https://carrijo.dev.br (currently, the content is available in Portuguese only).
+
+
 ## Certifications
 
 <details>
