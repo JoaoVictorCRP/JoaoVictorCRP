@@ -18,7 +18,7 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
 ## Certifications
 
 <details>
-<summary><b>AWS (9 certifications)</b></summary>
+<summary><b>AWS (10 certifications)</b></summary>
 <br>
 
 <p align="center">
@@ -41,6 +41,9 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
   <a href="https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url">
     <img src="AWS-DVA.png" alt="AWS Solutions Architect Associate" width="100" />
   </a>
+  <a href="https://www.credly.com/badges/be7a493d-4621-4c6b-ade1-eed877d844b4/public_url">
+    <img src="AWS-DEA.png" alt="AWS Data Engineer Associate" width="100" />
+  </a>
   <a href="https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url">
     <img src="AWS-SOA.png" alt="AWS SysOps Administrator" width="100" />
   </a>
@@ -60,6 +63,7 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
 | **[Solutions Architect – Professional](https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url)** | Complex architectures, large-scale migration, cost optimization, security, and hybrid/multi-account workloads |
 | **[Solutions Architect – Associate](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)** | Highly available and resilient architectures, networking, storage, and service integration |
 | **[Developer – Associate](https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url)** | Application development and life-cycle management using AWS CLI, SDKs and native services |
+| **[Data Engineer – Associate](https://www.credly.com/badges/be7a493d-4621-4c6b-ade1-eed877d844b4/public_url)** | Design and management of data pipelines and workflows in the cloud |
 | **[SysOps Administrator – Associate](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Operations and monitoring: CloudWatch, automation, high availability, backup/DR |
 | **[AI Practitioner - Foundational](https://www.credly.com/badges/b3b150e7-9f5d-4f7c-bac1-df96ba11a14f/public_url)** | General AI and ML concepts, methods, strategies and their practical applications   |
 | **[Cloud Practitioner - Foundational](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Cloud fundamentals, cost models, shared responsibility, and core services |
