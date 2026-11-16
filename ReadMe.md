@@ -139,7 +139,3 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
     <img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <i>⭐ Feel free to star my repositories if you find them useful!</i>
-</p>
