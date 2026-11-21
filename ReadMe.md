@@ -18,7 +18,7 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
 ## Certifications
 
 <details>
-<summary><b>AWS (10 certifications)</b></summary>
+<summary><b>AWS (11 certifications)</b></summary>
 <br>
 
 <p align="center">
@@ -41,11 +41,14 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
   <a href="https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url">
     <img src="AWS-DVA.png" alt="AWS Solutions Architect Associate" width="100" />
   </a>
-  <a href="https://www.credly.com/badges/be7a493d-4621-4c6b-ade1-eed877d844b4/public_url">
-    <img src="AWS-DEA.png" alt="AWS Data Engineer Associate" width="100" />
-  </a>
   <a href="https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url">
     <img src="AWS-SOA.png" alt="AWS SysOps Administrator" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/36349914-d5be-4a5c-b2d6-9837a09a8f07/public_url">
+    <img src="AWS-MLA.png" alt="AWS Machine Learning Engineer Associate" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/be7a493d-4621-4c6b-ade1-eed877d844b4/public_url">
+    <img src="AWS-DEA.png" alt="AWS Data Engineer Associate" width="100" />
   </a>
   <a href="https://www.credly.com/badges/b3b150e7-9f5d-4f7c-bac1-df96ba11a14f/public_url">
     <img src="AWS-AIF.png" alt="AWS AI Practitioner" width="100" />
