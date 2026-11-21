@@ -58,19 +58,6 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
   </a>
 </p>
 
-| Certification | Description |
-|:-------------:|-------------|
-| **[Security – Specialty](https://www.credly.com/badges/2ae19d20-dc63-459a-8a65-0fe72fa6c01a/public_url)** | Defense in depth: KMS, advanced IAM, WAF/Shield, incident response, data protection |
-| **[Advanced Networking – Specialty](https://www.credly.com/badges/fb31babb-e1d1-45ba-8b68-33545477b8b1/public_url)** | Design and maintainability of complex cloud networking architectures |
-| **[DevOps Engineer – Professional](https://www.credly.com/badges/4bcd8936-4c93-4954-9192-cc34b85da395/public_url)** | CI/CD Pipelines configuration, deployment strategies at scale, infrastructure automations |
-| **[Solutions Architect – Professional](https://www.credly.com/badges/88b2ae60-14b5-4411-a5e3-db261e731ad3/public_url)** | Complex architectures, large-scale migration, cost optimization, security, and hybrid/multi-account workloads |
-| **[Solutions Architect – Associate](https://www.credly.com/badges/7a8919fa-96f3-45eb-87a4-11cc53032399/public_url)** | Highly available and resilient architectures, networking, storage, and service integration |
-| **[Developer – Associate](https://www.credly.com/badges/f917a176-4981-4041-85eb-ec2804d223da/public_url)** | Application development and life-cycle management using AWS CLI, SDKs and native services |
-| **[Data Engineer – Associate](https://www.credly.com/badges/be7a493d-4621-4c6b-ade1-eed877d844b4/public_url)** | Design and management of data pipelines and workflows in the cloud |
-| **[SysOps Administrator – Associate](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Operations and monitoring: CloudWatch, automation, high availability, backup/DR |
-| **[AI Practitioner - Foundational](https://www.credly.com/badges/b3b150e7-9f5d-4f7c-bac1-df96ba11a14f/public_url)** | General AI and ML concepts, methods, strategies and their practical applications   |
-| **[Cloud Practitioner - Foundational](https://www.credly.com/badges/36d7df65-42ff-4622-a1d5-e98e036e50c5/public_url)** | Cloud fundamentals, cost models, shared responsibility, and core services |
-
 </details>
 
 
@@ -82,10 +69,6 @@ Also, I host a tech blog where I post my experiences, projects and learnings on 
     <img src="KCNA.png" width="100" />
   </a>
 </p>
-  
-| Certification | Description |
-|:-------------:|-------------|
-| **[KCNA](https://www.credly.com/badges/e25c0fde-9502-4f1f-afcd-a8b7eebc1c59/public_url)** | Kubernetes and Cloud Native fundamentals, architecture, open-source tools |
 
 </details>
 
